@@ -6,9 +6,9 @@
 ---
 
 ## Current Status
-**Module:** 0.1 — Dev Environment Setup  
-**Status:** In progress  
-**Date started:** 2026-04-30
+**Module:** 0.2 — Python Refresher  
+**Status:** Not started  
+**Date started:** —
 
 ---
 
@@ -18,13 +18,13 @@
 - [x] Confirmed Git installed
 - [x] Confirmed VS Code installed
 - [x] Created GitHub repo: https://github.com/akheelsajjan/ai-engineering
-- [x] Cloned repo locally to `C:\Users\aksaj\Documents\ai-engineering`
+- [x] Cloned repo locally to `C:\Users\aksaj\Documents\Claude\Projects\AI Application Engineering\ai-engineering`
 - [x] Created README.md, progress.md, LEARNINGS.md
+- [x] First commit and push to GitHub — Module 0.1 complete ✓
 
 ---
 
 ## Up Next
-- [ ] First commit and push to GitHub
 - [ ] Module 0.2: Python refresher (typing, async, pydantic, dataclasses, logging)
 
 ---
@@ -37,4 +37,4 @@
 ## Module Log
 | Module | Status | Date | Notes |
 |--------|--------|------|-------|
-| 0.1 Dev Setup | In Progress | 2026-04-30 | |
+| 0.1 Dev Setup | ✅ Complete | 2026-04-30 | uv + Python 3.12.11, Git, VS Code, GitHub repo live |
